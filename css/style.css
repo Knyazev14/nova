@@ -2863,7 +2863,7 @@ body.lock {
   }
 
   .learn-btn {
-    padding: 14px 15px;
+    padding: 14px 15px !important;
     text-align: center;
     width: 100%;
   }
