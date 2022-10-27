@@ -2084,7 +2084,6 @@ body.lock {
 
 .learn-btn {
   padding: 14px 36px;
-  margin: 0 auto;
 }
 
 .footer {
@@ -2760,6 +2759,12 @@ body.lock {
 
   .footer__bottom-list li {
     margin-bottom: 16px;
+  }
+}
+
+@media (max-width: 990px) {
+  .learn-btn {
+    margin: 0 auto;
   }
 }
 
